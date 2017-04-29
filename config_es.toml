@@ -1,0 +1,9 @@
+title = "an eLearning Module"
+languageCode = "es-es"
+baseurl = "http://d4ul.co/es/"
+theme = "hugo-theme-learn"
+contentDir = "content/es"
+publishDir = "public/es"
+[params]
+    menu = [ "introducción", "basicos", "tronco", "caderas", "resumen" ]
+    locale = "es-ES"

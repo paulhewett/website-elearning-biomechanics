@@ -1,0 +1,10 @@
+title = "an eLearning Module"
+languageCode = "en-uk"
+baseurl = "http://d4ul.co/en/"
+theme = "hugo-theme-learn"
+contentDir = "content/en"
+publishDir = "public/en"
+[params]
+    menu = [ "introduction", "basics", "trunk", "hips", "summary" ]
+    locale = "en-UK"
+    showVisitedLinks = true
